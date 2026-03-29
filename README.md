@@ -45,14 +45,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UnstableCastle&show_icons=true&theme=tokyonight&cache_seconds=1800" height="192px" alt="GitHub Stats Overview" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnstableCastle&layout=compact&theme=tokyonight&cache_seconds=1800" height="192px" alt="Top Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UnstableCastle&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1" height="192" alt="GitHub Stats Overview" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnstableCastle&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" height="192" alt="Top Languages Graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=UnstableCastle&theme=tokyonight" height="192px" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=UnstableCastle&theme=tokyonight" height="192" alt="GitHub Streak Stats" />
 </div>
 
 <br />
