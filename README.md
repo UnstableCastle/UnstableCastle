@@ -1,22 +1,4 @@
 <!-- refresh -->
-
-<h1 align="center">Hi 👋, I'm Amaan Sayyed</h1>
-<h3 align="center">Software Developer | Backend & Full Stack Enthusiast</h3>
-
-<p align="center">
-📍 India | 🎓 MCA ’25 @ MIT-WPU | 🚀 PGCP-AC CDAC
-</p>
-
----
-
-## 🎯 About Me
-- 💻 Focused on **Backend Development (Django & APIs)**
-- 🚀 Building scalable, real-world web applications
-- 🧠 Interested in **Computer Vision & ML**
-- ⚡ Strong in problem-solving & system design basics
-
----
-
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
@@ -43,21 +25,6 @@
 ### 📊 Data / ML (Basic)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-
----
-
-## 🚀 Projects
-- 🛒 **E-commerce Web App** – Django-based with authentication & cart  
-- 💼 **Job Portal System** – Recruiter & candidate workflow  
-- 📊 **Admin Dashboard** – Data management & backend integration  
-
----
-
-## 💼 Experience
-🏢 Intern at **Maxgen Technologies**  
-- Backend development with Django  
-- REST API integration  
-- Database handling & optimization  
 
 ---
 
@@ -88,10 +55,6 @@
 </p>
 
 ---
-
-## 🌐 Connect With Me
-🔗 LinkedIn: https://www.linkedin.com/in/amaan-sayyed-8a531b246  
-
 ---
 
 ## ⚡ Quote
