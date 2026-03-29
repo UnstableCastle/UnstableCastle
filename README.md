@@ -1,11 +1,13 @@
-## 👋 Hi there, I'm Amaan Sayyed!
-
 <div align="center">
-  <img src="" alt="Typing SVG" />
+  <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="High-Tech Banner" />
 </div>
 
+<br />
 
-- 🔭 I’m currently working on... <img src="https://media.giphy.com/media/WUlplcMtJQhF0B2iv6/giphy.gif" width="30">
+## 👋 Hi there, I'm Amaan Sayyed!
+
+**Software Developer | Passionate about coding and innovation**
+
 - 🎓 I'm currently pursuing my **PGCP-AC at CDAC** and my **MCA ('25) at MIT WPU**.
 - 🌱 I'm currently learning and practicing **C++**, **SQL**, and expanding my skills in **Web Development**.
 - 💡 I love building projects that solve real problems and learning new technologies along the way.
@@ -56,14 +58,14 @@
 ![IoT](https://img.shields.io/badge/IoT-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
 
 ---
-<!--
+
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UnstableCastle&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1" height="192" alt="GitHub Stats Overview" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnstableCastle&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" height="192" alt="Top Languages Graph" />
 </div>
--->
+
 <br />
 
 <div align="center">
