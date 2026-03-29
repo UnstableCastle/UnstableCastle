@@ -1,10 +1,10 @@
 ## 👋 Hi there, I'm Amaan Sayyed!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Software+Developer;MCA+Student;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="" alt="Typing SVG" />
 </div>
 
-**Software Developer | Passionate about coding and innovation**
+
 - 🔭 I’m currently working on... <img src="https://media.giphy.com/media/WUlplcMtJQhF0B2iv6/giphy.gif" width="30">
 - 🎓 I'm currently pursuing my **PGCP-AC at CDAC** and my **MCA ('25) at MIT WPU**.
 - 🌱 I'm currently learning and practicing **C++**, **SQL**, and expanding my skills in **Web Development**.
