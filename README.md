@@ -1,20 +1,3 @@
-<div align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="High-Tech Banner" />
-</div>
-
-<br />
-
-## 👋 Hi there, I'm Amaan Sayyed!
-
-**Software Developer | Passionate about coding and innovation**
-
-- 🎓 I'm currently pursuing my **PGCP-AC at CDAC** and my **MCA ('25) at MIT WPU**.
-- 🌱 I'm currently learning and practicing **C++**, **SQL**, and expanding my skills in **Web Development**.
-- 💡 I love building projects that solve real problems and learning new technologies along the way.
-- ⚡ **Fun fact:** When I'm not writing code, you can probably find me playing video games or catching up on some anime!
-
----
-
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
