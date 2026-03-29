@@ -41,14 +41,14 @@
 ![IoT](https://img.shields.io/badge/IoT-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
 
 ---
-
+<!--
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UnstableCastle&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1" height="192" alt="GitHub Stats Overview" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnstableCastle&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" height="192" alt="Top Languages Graph" />
 </div>
-
+-->
 <br />
 
 <div align="center">
