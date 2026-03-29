@@ -1,3 +1,18 @@
+## 👋 Hi there, I'm Amaan Sayyed!
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Software+Developer;MCA+Student;Tech+Enthusiast" alt="Typing SVG" />
+</div>
+
+**Software Developer | Passionate about coding and innovation**
+- 🔭 I’m currently working on... <img src="https://media.giphy.com/media/WUlplcMtJQhF0B2iv6/giphy.gif" width="30">
+- 🎓 I'm currently pursuing my **PGCP-AC at CDAC** and my **MCA ('25) at MIT WPU**.
+- 🌱 I'm currently learning and practicing **C++**, **SQL**, and expanding my skills in **Web Development**.
+- 💡 I love building projects that solve real problems and learning new technologies along the way.
+- ⚡ **Fun fact:** When I'm not writing code, you can probably find me playing video games or catching up on some anime!
+
+---
+
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
