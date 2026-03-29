@@ -56,6 +56,3 @@
 
 ---
 ---
-
-## ⚡ Quote
-💡 *"I build solutions, not just code."*
