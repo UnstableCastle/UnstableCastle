@@ -1,3 +1,11 @@
+
+- 🎓 I'm currently pursuing my **PGCP-AC at CDAC** and I have completed **MCA ('25) from MIT WPU**.
+- 🌱 I'm currently learning and **C++**, **SQL**, and expanding my skills in **Web Development**.
+- 💡 I love building projects that solve real problems and learning new technologies along the way.
+- ⚡ **Fun fact:** When I'm not writing code, you can probably find me playing video games or catching up on some anime!
+
+---
+
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
