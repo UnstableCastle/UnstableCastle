@@ -1,4 +1,3 @@
-
 - 🎓 I'm currently pursuing my **PGCP-AC at CDAC** and I have Master's Degree in **MCA ('25) from MIT WPU**.
 - 🌱 I'm currently learning Java , C++ & SQl.
 - 💡 I love coding & solve real problems while learning new technologies along the way.
