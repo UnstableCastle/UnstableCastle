@@ -1,7 +1,7 @@
 - 🎓 I'm pursuing my **PGCP-AC at CDAC** and I have Master's Degree in **MCA ('25) from MIT WPU**.
 - 🌱 I'm currently invested in learning Java, C++ & SQl.
 - 💡 I love coding & solve real problems while learning new technologies along the way.
-- ⚡ **Fun fact:** When I'm not writing code, you can probably find me playing video games or catching up on some anime!
+- ⚡ **Fun fact:** When I'm not writing code, you can probably find me playing video games or catching up on some anime.
 
 ---
 
