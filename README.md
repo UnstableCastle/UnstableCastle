@@ -1,114 +1,69 @@
-# Hi, I'm Amaan Sayyed 👋
-
-### Software Developer | PGCP-AC @ CDAC | MCA '25 @ MIT-WPU
-
-I build software, explore new technologies, and enjoy turning problems into practical solutions.
-
-Currently pursuing **PGCP-AC at CDAC**, with a **Master of Computer Applications (MCA)** from **MIT-WPU**.
-
-I'm currently sharpening my skills in **Java, C++, and SQL** while exploring web development, backend systems, databases, data science, and machine learning.
+🎓 I'm pursuing my **PGCP-AC at CDAC** and I have Master's Degree in **MCA ('25) from MIT WPU**.
+- 🌱 I'm currently invested in learning Java, C++ & SQl.
+- 💡 I love coding & solve real problems while learning new technologies along the way.
+- ⚡ **Fun fact:** When I'm not writing code, you can probably find me playing video games or catching up on some anime.
 
 ---
 
-## 🔎 What I'm Focused On
+## 💻 Tech Stack✨
 
-- Strengthening **Java, C++ & SQL**
-- Improving problem-solving and software development fundamentals
-- Exploring **backend development, data science & machine learning**
-- Building and learning through hands-on projects
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 
----
+### 🌐 Backend & Web
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/asp.net-%235C2D91.svg?style=flat&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23005571.svg?style=flat&logo=json&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![AngularJS](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117EB9.svg?style=flat&logo=WordPress&logoColor=white)
 
-## 🛠️ Tech Stack
+### 🛢 Database
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/neo4j-%230081CB.svg?style=flat&logo=neo4j&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+### 📊 Data Science, ML & Big Data
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big%20Data-Analytics-%231E88E5.svg?style=flat)
 
-### Backend & Web
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=json&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-117EB9?style=flat-square&logo=wordpress&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-0081CB?style=flat-square&logo=neo4j&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-### Data Science & Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-### Other
-`Big Data` `Android` `Cloud Computing` `IoT`
+### 📱 Mobile, Cloud & IoT
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-%232C8EBB.svg?style=flat&logo=googlecloud&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
 
 ---
-
-## 📈 GitHub Activity
+<!--
+## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UnstableCastle&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1" height="192" alt="GitHub Stats Overview" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnstableCastle&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" height="192" alt="Top Languages Graph" />
+</div>
+-->
+<br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UnstableCastle&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UnstableCastle&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=UnstableCastle&theme=tokyonight" height="192" alt="GitHub Streak Stats" />
 </div>
 
----
+<br />
 
-## 🎓 Education
-
-**PGCP-AC — CDAC**  
-Currently pursuing
-
-**MCA — MIT-WPU**  
-2025
-
----
-
-## 🔗 Find Me Online
-
-<p align="left">
-  <a href="https://github.com/UnstableCastle">
-    <img src="https://img.shields.io/badge/GitHub-UnstableCastle-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/amaan-sayyed/">
-    <img src="https://img.shields.io/badge/LinkedIn-Amaan%20Sayyed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/UnstableCastle/">
-    <img src="https://img.shields.io/badge/LeetCode-UnstableCastle-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="mailto:amaansayyed1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
-
-## 🎮 Beyond Code
-
-When I'm away from the keyboard, you'll probably find me **playing video games or catching up on anime**.
-
----
-
-<p align="center">
-  <i>Build • Learn • Experiment • Repeat</i>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UnstableCastle&theme=tokyo-night" width="100%" alt="GitHub Contribution Graph" />
+</div>
