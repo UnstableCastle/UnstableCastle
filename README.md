@@ -1,69 +1,75 @@
-- 🎓 I'm pursuing my **PGCP-AC at CDAC** and I have Master's Degree in **MCA ('25) from MIT WPU**.
-- 🌱 I'm currently invested in learning Java, C++ & SQl.
-- 💡 I love coding & solve real problems while learning new technologies along the way.
-- ⚡ **Fun fact:** When I'm not writing code, you can probably find me playing video games or catching up on some anime.
+# Hi, I'm Amaan Sayyed 👋
+
+### Software Developer | PGCP-AC @ CDAC | MCA '25 @ MIT-WPU
+
+I build software, explore new technologies, and enjoy turning problems into practical solutions.
+
+Currently pursuing **PGCP-AC at CDAC**, with a **Master of Computer Applications (MCA)** from **MIT-WPU**.
+
+I'm currently sharpening my skills in **Java, C++, and SQL** while continuing to work across web development, databases, data science, and machine learning.
 
 ---
 
-## 💻 Tech Stack✨
+## 🔎 Current Focus
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-
-### 🌐 Backend & Web
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/asp.net-%235C2D91.svg?style=flat&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23005571.svg?style=flat&logo=json&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
-![AngularJS](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117EB9.svg?style=flat&logo=WordPress&logoColor=white)
-
-### 🛢 Database
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/neo4j-%230081CB.svg?style=flat&logo=neo4j&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-
-### 📊 Data Science, ML & Big Data
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
-![Big Data](https://img.shields.io/badge/Big%20Data-Analytics-%231E88E5.svg?style=flat)
-
-### 📱 Mobile, Cloud & IoT
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-%232C8EBB.svg?style=flat&logo=googlecloud&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
+- Strengthening **Java, C++ & SQL**
+- Building a stronger foundation in **software development & problem solving**
+- Exploring **data science, machine learning & backend development**
+- Learning new technologies through hands-on projects and experimentation
 
 ---
-<!--
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UnstableCastle&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1" height="192" alt="GitHub Stats Overview" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnstableCastle&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" height="192" alt="Top Languages Graph" />
-</div>
--->
-<br />
+## 🛠️ Technical Toolkit
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=UnstableCastle&theme=tokyonight" height="192" alt="GitHub Streak Stats" />
-</div>
+### Languages
+`Python` `Java` `C` `C++` `JavaScript` `PHP`
 
-<br />
+### Backend & Web
+`Django` `ASP.NET` `REST APIs` `HTML5` `CSS3` `jQuery` `AngularJS` `WordPress`
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UnstableCastle&theme=tokyo-night" width="100%" alt="GitHub Contribution Graph" />
-</div>
+### Databases
+`MySQL` `PostgreSQL` `MongoDB` `Neo4j` `JDBC`
+
+### Data Science & Machine Learning
+`NumPy` `Pandas` `Matplotlib` `scikit-learn` `TensorFlow` `Keras` `OpenCV`
+
+### Other Areas
+`Big Data` `Android` `Cloud Computing` `IoT`
+
+---
+
+## 🎓 Education
+
+**PGCP-AC — CDAC**  
+Currently pursuing
+
+**MCA — MIT-WPU**  
+2025
+
+---
+
+## 📊 GitHub
+
+I use GitHub to learn, experiment, build, and contribute across different areas of software development.
+
+[![GitHub](https://img.shields.io/badge/GitHub-UnstableCastle-181717?style=for-the-badge&logo=github)](https://github.com/UnstableCastle)
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/amaan-sayyed/)
+- 💻 [LeetCode](https://leetcode.com/u/UnstableCastle/)
+- 📧 [Email](mailto:amaansayyed1@gmail.com)
+
+---
+
+## 🎮 Beyond Code
+
+When I'm away from the keyboard, you'll probably find me **playing video games or catching up on anime**.
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving — one problem at a time.</i>
+</p>
