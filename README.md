@@ -2,7 +2,7 @@
 - 🌱 I'm currently invested in learning Java, C++ & SQl.
 - 💡 I love coding & solve real problems while learning new technologies along the way.
 - ⚡ **Fun fact:** When I'm not writing code, you can probably find me playing video games or catching up on some Anime.
-- 💤 ? Most under rated talent 😭
+
 
 ---
 
